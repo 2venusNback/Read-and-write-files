@@ -1,0 +1,8 @@
+C:\Users\1058693\Documents\App Dev\Madlib\Write and Read tct file\Write and Read tct file\obj\Debug\Write and Read tct file.csproj.AssemblyReference.cache
+C:\Users\1058693\Documents\App Dev\Madlib\Write and Read tct file\Write and Read tct file\obj\Debug\Write and Read tct file.csproj.SuggestedBindingRedirects.cache
+C:\Users\1058693\Documents\App Dev\Madlib\Write and Read tct file\Write and Read tct file\obj\Debug\Write and Read tct file.csproj.CoreCompileInputs.cache
+C:\Users\1058693\Documents\App Dev\Madlib\Write and Read tct file\Write and Read tct file\bin\Debug\Write and Read tct file.exe.config
+C:\Users\1058693\Documents\App Dev\Madlib\Write and Read tct file\Write and Read tct file\bin\Debug\Write and Read tct file.exe
+C:\Users\1058693\Documents\App Dev\Madlib\Write and Read tct file\Write and Read tct file\bin\Debug\Write and Read tct file.pdb
+C:\Users\1058693\Documents\App Dev\Madlib\Write and Read tct file\Write and Read tct file\obj\Debug\Write and Read tct file.exe
+C:\Users\1058693\Documents\App Dev\Madlib\Write and Read tct file\Write and Read tct file\obj\Debug\Write and Read tct file.pdb
